@@ -1,3 +1,3 @@
-openjdk:latest
+openjdk:node
 #支持指定架构
 --platform=linux/arm64
