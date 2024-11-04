@@ -1,3 +1,3 @@
-bitnami/postgresql:latest
+minio/minio:latest
 #支持指定架构
 --platform=linux/arm64
