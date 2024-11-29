@@ -1,3 +1,3 @@
-redis:latest
+openjdk:17
 #支持指定架构
 --platform=linux/arm64
